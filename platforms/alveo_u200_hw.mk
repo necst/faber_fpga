@@ -1,0 +1,2 @@
+BRD_PARTS= "xcu200-fsgd2104-2-e"
+TARGET_DEVICE=xilinx_u200_xdma_201830_2
