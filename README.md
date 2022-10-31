@@ -201,6 +201,19 @@ Contributors: D'Arnese Eleonora, Conficconi Davide, Del Sozzo Emanuele, Fusco Lu
 If you find this repository useful, please use the following citation(s):
 
 ```
+@article{faber2022,
+title={Faber: a Hardware/Soft-ware Toolchain for Image Registration},
+author={D'Arnese, Eleonora and Conficconi, Davide and Del Sozzo, Emanuele and Fusco, Luigi and Sciuto, Donatella and Santambrogio, Marco D},
+journal={IEEE Transactions on Parallel and Distributed Systems},
+year="2022",
+publisher = "IEEE Computer Society",
+address = "Los Alamitos, CA, USA",
+pages = "To Appear"
+}
+
+```
+
+```
 @inproceedings{iron2021,
 author = {Conficconi, Davide and D'Arnese, Eleonora and Del Sozzo, Emanuele and Sciuto, Donatella and Santambrogio, Marco D},
 title = {A Framework for Customizable FPGA-based Image Registration Accelerators},
