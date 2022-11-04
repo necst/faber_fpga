@@ -208,7 +208,8 @@ journal={IEEE Transactions on Parallel and Distributed Systems},
 year="2022",
 publisher = "IEEE Computer Society",
 address = "Los Alamitos, CA, USA",
-pages = "To Appear"
+doi = "10.1109/TPDS.2022.3218898"
+pages = "1--12"
 }
 
 ```
@@ -219,6 +220,7 @@ author = {Conficconi, Davide and D'Arnese, Eleonora and Del Sozzo, Emanuele and 
 title = {A Framework for Customizable FPGA-based Image Registration Accelerators},
 booktitle = {The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays},
 pages={251--261},
-year = {2021}
+year = {2021},
+doi = "10.1145/3431920.3439291"
 }
 ```
